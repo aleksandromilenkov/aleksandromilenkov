@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/73/0f/cf/730fcfc5fc50fb7289c01b423503b157.jpg)](https://portfolio-aleksandro.netlify.app/)
+
 <h1 align="center">Hi 👋, I'm Aleksandro Milenkov</h1>
 <h3 align="center">A passionated fullstack developer from Macedonia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif"/>
