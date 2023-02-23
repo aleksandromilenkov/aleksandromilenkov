@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently learning **React JS, Next JS and Node JS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-aleksandro.netlify.app/](https://portfolio-aleksandro.netlify.app/)
 
