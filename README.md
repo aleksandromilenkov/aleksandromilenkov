@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS and Node JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-aleksandro.netlify.app/](https://portfolio-aleksandro.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://portfolio-aleksandro.netlify.app/](https://aleksandromilenkov.netlify.app/)]([https://portfolio-aleksandro.netlify.app/](https://aleksandromilenkov.netlify.app/))
 
 - 📫 How to reach me **aleksandro.macedonia@gmail.com**
 
