@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React JS, Next JS and Node JS**
+- 🌱 I’m currently learning **React.js, MongoDB, Mongoose, Node.js and Express.js**
 
 - 👨‍💻 All of my projects are available at [https://aleksandromilenkov.netlify.app/](https://aleksandromilenkov.netlify.app/)
 - 📫 How to reach me **aleksandro.macedonia@gmail.com**
