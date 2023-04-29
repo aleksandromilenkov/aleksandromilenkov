@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, MongoDB, Mongoose, Node.js and Express.js**
 
-- 👨‍💻 Most of my projects are available at [https://aleksandromilenkov.netlify.app/](https://aleksandromilenkov.netlify.app/)
+- 👨‍💻 Most of my bigger projects are available at [https://aleksandromilenkov.netlify.app/](https://aleksandromilenkov.netlify.app/)
 - 📫 How to reach me **aleksandro.macedonia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
