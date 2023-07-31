@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js, MongoDB, Mongoose, Node.js and Express.js**
+- 🌱 I’m currently learning **MongoDB, Mongoose, Node.js and Express.js**
 
 - 👨‍💻 Most of my bigger projects are available at [https://aleksandromilenkov.netlify.app/](https://aleksandromilenkov.netlify.app/)
 - 📫 My e-mail:  **aleksandro.macedonia@gmail.com**
