@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aleksandro Milenkov</h1>
-<h3 align="center">A passionated Mid Fullstack developer from Macedonia</h3>
+<h3 align="center">A passionated Fullstack Software Engineer from Macedonia</h3>
 
 
 
