@@ -5,7 +5,7 @@
 
 
 - 🚀 I have 86 repositories showcasing projects with **ASP.NET Web API, ASP.NET MVC, MERN Stack, Microservices, Clean Architecture, React, Redux, React Query, Redux Toolkit Query, CSS3, Tailwind, Material UI,** and more....
-- 🔥 Currently focusing on Docker & Kubernetes to containerize and orchestrate applications, with plans to dive deep into AWS cloud services next
+- 🔥 Currently focusing on Docker & Kubernetes to containerize and orchestrate applications, also implementing AWS cloud solutions!
 
 - 👨‍💻 Most of my bigger projects are available at: [https://aleksandromilenkov.netlify.app/](https://aleksandromilenkov.netlify.app/)
 - 📫  Reach me at:  **aleksandro.macedonia@gmail.com**
